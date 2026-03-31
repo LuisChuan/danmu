@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/play/play"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "手持弹幕",
+    "navigationBarBackgroundColor": "#f8e988",
+    "backgroundColor": "#041423"
+  },
+  "permission": {
+    "scope.writePhotosAlbum": {
+      "desc": "保存弹幕截图到相册以便分享"
+    }
+  },
+  "usingComponents": {}
+}
